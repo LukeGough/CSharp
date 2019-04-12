@@ -20,6 +20,8 @@ Logic Requirements:
   - Three global arrays will be needed to store the "string data", Name, Platform and Genre.
   - All three TextBoxes will need to contain text before a game can be added (a message box should be used to display warnings/errors).
   - Update Button, When a computer game is selected in the ListBox the Name, Platform and Genre TextBoxes should be populated with the appropriate text, once the Update button is selected the TextBoxes should then be cleared.
-  -  All games in the ListBox should be displayed in alphabetically order (using the Name field, ascending). The sort method MUST use Bubble Sorth algorithm and you may NOT use any built in methods.
+  - All games in the ListBox should be displayed in alphabetically order (using the Name field, ascending). The sort method MUST use Bubble Sorth algorithm and you may NOT use any built in methods.
   - Search Button, Should search for the name entered in the Name TextBox, if a game is found all TextBoxes should be populated with the appropriate text, if a game is not found a message should be displayed and the TextBoxes cleared.
   - Each of the TextBox controls should have a ToolTip text.
+  - When the program is closed the game collection should automatically saved to the "mygames.dat" file.
+  - When the program is opened the game collection should automatically open from the "mygames.dat" file and be displayed in the ListBox.
