@@ -1,0 +1,10 @@
+D:\TAFE South Metro\Cert IV Programming\Monday, Programming II\AT1 Portfolio\AT1Q2\AT1Q2\AT1Q2\bin\Debug\AT1Q2.exe.config
+D:\TAFE South Metro\Cert IV Programming\Monday, Programming II\AT1 Portfolio\AT1Q2\AT1Q2\AT1Q2\bin\Debug\AT1Q2.exe
+D:\TAFE South Metro\Cert IV Programming\Monday, Programming II\AT1 Portfolio\AT1Q2\AT1Q2\AT1Q2\bin\Debug\AT1Q2.pdb
+D:\TAFE South Metro\Cert IV Programming\Monday, Programming II\AT1 Portfolio\AT1Q2\AT1Q2\AT1Q2\obj\Debug\AT1Q2.csprojAssemblyReference.cache
+D:\TAFE South Metro\Cert IV Programming\Monday, Programming II\AT1 Portfolio\AT1Q2\AT1Q2\AT1Q2\obj\Debug\AT1Q2.MyBookForm.resources
+D:\TAFE South Metro\Cert IV Programming\Monday, Programming II\AT1 Portfolio\AT1Q2\AT1Q2\AT1Q2\obj\Debug\AT1Q2.Properties.Resources.resources
+D:\TAFE South Metro\Cert IV Programming\Monday, Programming II\AT1 Portfolio\AT1Q2\AT1Q2\AT1Q2\obj\Debug\AT1Q2.csproj.GenerateResource.cache
+D:\TAFE South Metro\Cert IV Programming\Monday, Programming II\AT1 Portfolio\AT1Q2\AT1Q2\AT1Q2\obj\Debug\AT1Q2.csproj.CoreCompileInputs.cache
+D:\TAFE South Metro\Cert IV Programming\Monday, Programming II\AT1 Portfolio\AT1Q2\AT1Q2\AT1Q2\obj\Debug\AT1Q2.exe
+D:\TAFE South Metro\Cert IV Programming\Monday, Programming II\AT1 Portfolio\AT1Q2\AT1Q2\AT1Q2\obj\Debug\AT1Q2.pdb
