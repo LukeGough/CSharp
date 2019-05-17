@@ -1,9 +1,3 @@
-﻿/*  
-    Class: Cluster - Programming II
-    Name: Luke Gough
-    Student ID: 30003918
- */
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
