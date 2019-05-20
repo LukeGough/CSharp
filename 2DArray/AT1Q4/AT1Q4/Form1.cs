@@ -174,24 +174,44 @@ namespace AT1Q4
                         // saving inner + 1 array into a temp string
                         // replacing inner + 1 with inner
                         // replacing inner with tmp, which is actually inner + 1
-                        string tmp = games[inner + 1, 0];
-                        games[inner + 1, 0] = games[inner, 0];
-                        games[inner, 0] = tmp;
+                        //string tmp = games[inner + 1, 0];
+                        //games[inner + 1, 0] = games[inner, 0];
+                        //games[inner, 0] = tmp;
 
-                        tmp = games[inner + 1, 1];
-                        games[inner + 1, 1] = games[inner, 1];
-                        games[inner, 1] = tmp;
+                        //tmp = games[inner + 1, 1];
+                        //games[inner + 1, 1] = games[inner, 1];
+                        //games[inner, 1] = tmp;
 
-                        tmp = games[inner + 1, 2];
-                        games[inner + 1, 2] = games[inner, 2];
-                        games[inner, 2] = tmp;
+                        //tmp = games[inner + 1, 2];
+                        //games[inner + 1, 2] = games[inner, 2];
+                        //games[inner, 2] = tmp;
 
-                        tmp = games[inner + 1, 3];
-                        games[inner + 1, 3] = games[inner, 3];
-                        games[inner, 3] = tmp;
+                        //tmp = games[inner + 1, 3];
+                        //games[inner + 1, 3] = games[inner, 3];
+                        //games[inner, 3] = tmp;
+                        BubbleSortSwap(games, inner);
                     }
                 }
             }
+        }
+        
+        private void BubbleSortSwap(string[,] games, int inner)
+        {
+            string tmp = games[inner + 1, 0];
+            games[inner + 1, 0] = games[inner, 0];
+            games[inner, 0] = tmp;
+
+            tmp = games[inner + 1, 1];
+            games[inner + 1, 1] = games[inner, 1];
+            games[inner, 1] = tmp;
+
+            tmp = games[inner + 1, 2];
+            games[inner + 1, 2] = games[inner, 2];
+            games[inner, 2] = tmp;
+
+            tmp = games[inner + 1, 3];
+            games[inner + 1, 3] = games[inner, 3];
+            games[inner, 3] = tmp;
         }
 
         // binary search method
