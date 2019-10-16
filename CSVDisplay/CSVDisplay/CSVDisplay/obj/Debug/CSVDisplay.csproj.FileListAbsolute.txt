@@ -1,0 +1,15 @@
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\bin\Debug\CSVDisplay.exe.config
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\bin\Debug\CSVDisplay.exe
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\bin\Debug\CSVDisplay.pdb
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\bin\Debug\CsvHelper.dll
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\bin\Debug\System.ValueTuple.dll
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\bin\Debug\CsvHelper.xml
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\bin\Debug\System.ValueTuple.xml
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\obj\Debug\CSVDisplay.csprojAssemblyReference.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\obj\Debug\CSVDisplay.CSVDisplayForm.resources
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\obj\Debug\CSVDisplay.Properties.Resources.resources
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\obj\Debug\CSVDisplay.csproj.GenerateResource.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\obj\Debug\CSVDisplay.csproj.CoreCompileInputs.cache
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\obj\Debug\CSVDisplay.csproj.CopyComplete
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\obj\Debug\CSVDisplay.exe
+D:\TAFE South Metro\Dip Software Deveopment\Tuesday Programming III\Portfolio of Tasks (AT2)\Question 6\CSVDisplay\CSVDisplay\obj\Debug\CSVDisplay.pdb
